@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Kingshuk Raihan
+### Hi there 👋, my name is Palash Raihan
 #### Web Developer
 I am a Front End Web Developer. I  love to create open source project with anyone.
 
